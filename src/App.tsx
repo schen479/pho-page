@@ -6,18 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1 className="title"> Pho: My One and Only </h1>
+        <p className="description">
+          Pho is a Vietnamese soup that's made with broth, noodles, beef (or other protein) 
+          and lots of toppings like cilantro, lemon, jalapenos. The best thing about pho is that it's savory and rich
+          while still feeling clean and refreshing at the same time.
+      </p>
       </header>
     </div>
   );
