@@ -16,6 +16,13 @@ body {
   border-radius: 30px;
 }
 
+.description {
+  background-color: #35353f; 
+  padding: 2rem 1rem;
+  border-radius: 25px;
+  line-height: 1.6;
+  margin: 2;
+}
 
 
 .App-logo {
