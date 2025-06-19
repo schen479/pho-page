@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1 className="title"> Pho: My One and Only </h1>
+        <img src="/pho.jpg" alt="Pho" />
         <p className="description">
           Pho is a Vietnamese soup that's made with broth, noodles, beef (or other protein) 
           and lots of toppings like cilantro, lemon, jalapenos. The best thing about pho is that it's savory and rich
