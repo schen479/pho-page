@@ -10,6 +10,13 @@ body {
   color: #fff;
 }
 
+.rounded-image {
+  width: 800px;
+  height: 740px;  
+  border-radius: 30px;
+}
+
+
 
 .App-logo {
   height: 40vmin;
