@@ -24,6 +24,13 @@ body {
   margin: 2;
 }
 
+.title{
+  font-size: 3rem;
+  font-weight: bold;
+  background: linear-gradient(90deg, #ff4e50, #f9d423);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
 .App-logo {
   height: 40vmin;
